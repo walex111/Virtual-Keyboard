@@ -1,2 +1,2 @@
 # Virtual-Keyboard
-Using Javascript to create a Virtual Keyboard.
+Using Javascript and CSS preprocessor (SCSS) to create a Virtual Keyboard.
